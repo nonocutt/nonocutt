@@ -29,7 +29,6 @@ I design **real-time audio systems**, **interactive tools**, and **experimental 
 
 ![Overview](https://github.com/nonocutt/stats/raw/master/generated/overview.svg#gh-dark-mode-only)
 ![Overview](https://github.com/nonocutt/stats/raw/master/generated/overview.svg#gh-light-mode-only)
-
 ![Languages](https://github.com/nonocutt/stats/raw/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages](https://github.com/nonocutt/stats/raw/master/generated/languages.svg#gh-light-mode-only)
 
