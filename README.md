@@ -26,7 +26,7 @@ I design real-time audio systems, interactive tools, and experimental interfaces
 
 ---
 
-![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
