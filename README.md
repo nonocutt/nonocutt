@@ -27,10 +27,10 @@ I design real-time audio systems, interactive tools, and experimental interfaces
 ---
 
 ![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nonocutt/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/languages.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonocutt/nonocutt/output/pacman-contribution-graph-dark.svg">
