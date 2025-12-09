@@ -1,12 +1,12 @@
 ## Hi there, I’m Noella 👋
 
-I design real-time audio systems, interactive tools, and experimental interfaces that blend signal processing with human expression.  
+I design **real-time audio systems**, **interactive tools**, and **experimental interfaces** that blend signal processing, creative coding, and human expression.
 **Pronouns:** she/they
 
-- 🎛️ **Audio & DSP Development** — Max/MSP + RNBO, JUCE (C++), gen~, real-time processing  
+- 🎛️ **Audio & DSP Development** — Max/MSP + RNBO, JUCE (C++), gen~, real-time audio workflows  
 - 🧩 **Creative Coding** — Python, C++, C#, JavaScript, Unity
 - 🧤 **Hardware & Interaction** — Arduino, Raspberry Pi, custom sensor interfaces  
-- 🛠️ Rapid Prototyping — audio tools, interfaces, and small hardware experiments
+- 🛠️ **Rapid Prototyping** — audio tools, interactive systems, and experimental performance technologies
 
 ---
 
@@ -15,6 +15,7 @@ I design real-time audio systems, interactive tools, and experimental interfaces
 - Rust
 - MATLAB
 - Advanced DSP
+- Systematic Program Design
 - Machine learning for audio & interaction
 
 ---
@@ -26,11 +27,11 @@ I design real-time audio systems, interactive tools, and experimental interfaces
 
 ---
 
-![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/overview.svg#gh-light-mode-only)
+![Overview](https://github.com/nonocutt/stats/raw/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://github.com/nonocutt/stats/raw/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nonocutt/stats/master/generated/languages.svg#gh-light-mode-only)
+![Languages](https://github.com/nonocutt/stats/raw/master/generated/languages.svg#gh-dark-mode-only)
+![Languages](https://github.com/nonocutt/stats/raw/master/generated/languages.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonocutt/nonocutt/output/pacman-contribution-graph-dark.svg">
