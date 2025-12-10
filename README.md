@@ -8,9 +8,9 @@ I design **real-time audio systems**, **interactive tools**, and **experimental 
 
 ### 🛠️ Skills & Technologies
 
-- 🎛️ **Audio & DSP Development** — Max/MSP + RNBO, JUCE (C++), gen~, real-time audio workflows  
-- 🧩 **Creative Coding** — Python, C++, C#, JavaScript, Unity
-- 🧤 **Hardware & Interaction** — Arduino, Raspberry Pi, custom sensor interfaces  
+- 🎛️ **Audio & DSP Development** — Max/MSP + RNBO, JUCE (C++), gen~, real-time audio workflows
+- 🧩 **Creative Coding** — Python, C++, C#, JavaScript, Unity, SQLite
+- 🧤 **Hardware & Interaction** — Arduino, Raspberry Pi, custom sensor interfaces
 - 📡 **Rapid Prototyping** — audio tools, interactive systems, and experimental performance technologies
 
 ---
@@ -27,7 +27,7 @@ I design **real-time audio systems**, **interactive tools**, and **experimental 
 
 ### 📫 Contact
 
-- Website: [nonocutt.com](https://nonocutt.com)  
+- Website: [nonocutt.com](https://nonocut.com)
 - Email: <nonocut@icloud.com>
 
 ---
