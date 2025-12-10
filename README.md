@@ -27,7 +27,7 @@ I design **real-time audio systems**, **interactive tools**, and **experimental 
 
 ### 📫 Contact
 
-- Website: [nonocutt.com](https://nonocut.com)
+- Website: [nonocut.com](https://nonocut.com)
 - Email: <nonocut@icloud.com>
 
 ---
